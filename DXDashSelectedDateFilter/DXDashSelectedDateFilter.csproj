@@ -93,6 +93,10 @@
   <ItemGroup>
     <Content Include="afterswitch.JPG" />
     <Content Include="App_Data\Dashboards\dashboard1.xml" />
+    <Content Include="App_Data\NWind.mdf" />
+    <Content Include="App_Data\NWind_log.ldf">
+      <DependentUpon>NWind.mdf</DependentUpon>
+    </Content>
     <Content Include="Content\DashboardThumbnail\dashboard1.png" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
