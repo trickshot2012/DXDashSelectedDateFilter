@@ -5,8 +5,8 @@ Open Viewer page with this parameter, example http://localhost:52838/Viewer.aspx
 
 Initial Load shows wrong data
 
-![Image Screenshot](initial1.JPG)
+![Image Screenshot](DXDashSelectedDateFilter/initial1.JPG)
 
 After you switch to another period and then back you got the right data
 
-![Image Screenshot](afterswitch.JPG)
+![Image Screenshot](DXDashSelectedDateFilter/afterswitch.JPG)
